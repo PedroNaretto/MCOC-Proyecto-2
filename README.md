@@ -22,6 +22,8 @@ Se tomarán como supuestos las siguientes condiciones:
     Velocidad del flujo en x (vfx) se comporta como un perfil logartitmico de la forma vfx = 0.18*/0.41*log(30*(y/d))
     Velocidad del flujo en y (vfy) = 0.0 m/s
 
+Especificaciones computador (Pedro Naretto)
+
 El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados.
 Computador
 
