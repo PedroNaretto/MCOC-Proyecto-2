@@ -35,4 +35,4 @@ El código se corrió con tres cantidades distintas de partículas. Primero se h
 Entrega 6
 
 A continuación se presenta la curva de tiempo vs número de particulas del programa.
-![al text]()
+![al text](https://github.com/PedroNaretto/MCOC-Proyecto-2/blob/master/Captura.PNG)
