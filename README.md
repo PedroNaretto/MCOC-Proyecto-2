@@ -25,10 +25,14 @@ Se tomarán como supuestos las siguientes condiciones:
 Especificaciones computador (Pedro Naretto)
 
 El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados.
-Computador
 
 Especificaciones del computador (Pedro Naretto)
 El computador utilizado por mi parte es un acer de 15.6" Intel Core i5 de 2.3 GHz, 8 GB de Memoria RAM y originalmente 4 GB de RAM.
 Resultados
 
 El código se corrió con tres cantidades distintas de partículas. Primero se hizo la simulación con 4 partículas, con el cual se demoró 0.77 segundo en correr. Luego se volvió a realizar la simulación con 11 partículas, demorándose un tiempo de 9.54 segundos. Finalmente, el número de partículas fue 20, con el que demoró un tiempo mayor, el cual fue 39.14 segundos.
+
+Entrega 6
+
+A continuación se presenta la curva de tiempo vs número de particulas del programa.
+![al text]()
